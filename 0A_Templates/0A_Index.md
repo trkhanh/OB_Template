@@ -59,9 +59,9 @@ tags:
 ## 8️⃣ - Reviews
 - [[0A_8_1_GameReview]]
     - Query for making a game review
-## 9️⃣ - Reserach
-- [[0A_9_1_Reserach]]
-    - Reserach and the process of making it
+## 9️⃣ - Research
+- [[0A_9_1_Research]]
+    - Research and the process of making it
 ## 1️⃣0️⃣ - Entertainment
 - [[0A_10_1_Entertainment]]
     - Template for entertainment information

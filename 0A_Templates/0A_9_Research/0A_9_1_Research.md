@@ -1,11 +1,11 @@
 ---
 created: ["{{date}} {{time}}"]
-aliases: ["Reserach: {{title}}"]
+aliases: ["Research: {{title}}"]
 tags:
-- Reserach/
+- Research/
 ---
 
-# 🍽 Reserach -> 
+# 🍽 Research -> 
 
 # ❓ Information
 Type:: 
