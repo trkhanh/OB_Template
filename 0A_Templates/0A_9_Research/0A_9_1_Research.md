@@ -2,7 +2,7 @@
 created: ["{{date}} {{time}}"]
 aliases: ["Research: {{title}}"]
 tags:
-- Research/
+- Research
 ---
 
 # 🍽 Research -> 
