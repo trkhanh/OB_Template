@@ -11,15 +11,14 @@ ___
 ```dataview
 TABLE WITHOUT ID
 	link(file.name) as "Day",
-	Breakfast AS "🍜",
 	Feeling AS "✨",
 	working-on AS "✏️",
-	money-spent AS "💸",
-	Workout AS "💪",
-	Motivation AS "💹"
-WHERE file.folder = this.file.folder AND
- contains(tag, "#Log/dailylog") 
-SORT file.name ASC
+	Motivation AS "🔥",
+	Pomodoro AS "🍅",
+	Focus AS "🎯",
+	Workout AS "💪"
+WHERE file.folder = "06.Daily" AND file.name >= "20250406" AND file.name <= "20250411"
+SORT file.name DESC
 ```
 
 ### 📑 Weekly Reviews
