@@ -4,7 +4,7 @@ created:
 aliases:
   - "Games: {{title}}"
 tags:
-  - CodeReview
+  - Engineering/CodeReview
 ---
 ### **Code Review Template**  
 **PR Title/Link**: [Insert PR Title or Link]  

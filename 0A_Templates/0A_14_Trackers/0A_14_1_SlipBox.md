@@ -30,5 +30,5 @@ tags:
 If you are using dataview, I recommend using something  like this.
 ""
 dataview
-TABLE created AS "Date", status AS "Status" FROM #books AND !"0A_Templates"
+TABLE created AS "Date", status AS "Status" FROM #MySelf/books AND !"0A_Templates"
 ""

@@ -3,13 +3,13 @@ tags:
   - Task
 ---
 ### **Task**: [Task name]  
-### Focus Area: 
+#### Focus Area: 
 [e.g., AWS SageMaker Model Deployment]  
-### Progress:
+#### Progress:
 - Completed: [What you did]  
 - Struggled With: [Where you got stuck]  
-### Insights:
+#### Insights:
 - "I learned that SageMaker endpoints require IAM roles. Need to study IAM policies next."  
-### [[Mindset Check]]:  
+#### [[08.Input/Mindset check]]:  
 - "Felt impatient today—reminded myself that deployment takes practice!"  
-### Tomorrow’s Goal: [1–2 priority tasks]
+#### Tomorrow’s Goal: [1–2 priority tasks]

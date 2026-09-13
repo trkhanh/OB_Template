@@ -1,7 +1,7 @@
 ---
-created: ["{{date}} {{time}}"]
-tags: 
-- Log/DaiLyLog
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+tags:
+  - Log/DaiLyLog
 ---
 ## 🔷Tracker
 - Feeling:: 
@@ -15,9 +15,20 @@ tags:
 --- 
 ##  Daily Tasks
 - [ ] Study something
-- [ ] Planning
+- [ ] Started your day with Objectives
+- [ ] Have you taken action on your [NAB 2025 Goal 🎯] today?
+- [ ] Have you taken action on your [OWN Goal 🎯] today?
+- [ ] Practice [Internal Locus Of Control] before your day by read and set more goal to achieve it.
+- [ ] Planning/reviewing 
+- [ ] Did you truthful and transparent? What are evident?
 - [ ] Read email
+- [ ] Had [A Worry time] section
+- [ ] Daily Coding Challenges - [Effective to train that subconscious in the context of software engineering]
+- [ ] Say hi, and open video camera
+- [ ] Coffee nap 
 - [ ] Work on personal projects
+- [ ] Learn 30 mins English
+- [ ] Shadow speaking 30 mins
 - [ ] Meditation 5-10 minutes [^7]
 - [ ] Workout 
 	- [ ] Push up x100
@@ -28,16 +39,19 @@ tags:
 	- [ ] Row Barbell Back Shoulder x30
 	- [ ] Row Barbell Curl bicep x30
 	- [ ] Barbell bent-over Lat row x30
-	- [ ] Running 5km
+	- [ ] Walking 6000 steps
 	- [ ] Chin up
 	- [ ] Resistance band revert pull back
 	- [ ] Resistance band Wide shoulder
-- [ ] Chunking 
-
+	- [ ] Resistance band chest press
+	- [ ] Facial **Place your hand under your chin and open and close your mouth**  x 60
 # 🕴 Business
 ## 🎯 Objectives[^1]
 ## 🚀 Working On (Task/Project)
 ## 📕 Reminders[^2]
+![[Backlog#➡️📚 In Progress (Linked to KRs)]]
+![[Backlog#➡️ 💼 In Progress (Linked to KRs )]]
+![[Backlog#➡️ 🗣️ In Progress]]
 
 ## 📚 Reading
 - 
@@ -62,7 +76,7 @@ tags:
 	- Wok up and 
 
 [^3]:  **Deliberate** analysis of observations and thoughts to gain insights, learn, or plan, Connects experiences to broader patterns, goals, or values.
-[^6]: A [[Lingering Feelings]] is an emotion that stays with you beyond the event that caused it.
+[^6]: A [Lingering Feelings 1] is an emotion that stays with you beyond the event that caused it.
 [^5]: Facts  or raw data you collect through your senses (what you see, hear, do, or experience)
 [^4]:  Ideas, interpretations, judgments, or reactions triggered by observations.
 [^2]: **Leftover parts** of something after division, removal, or completion.

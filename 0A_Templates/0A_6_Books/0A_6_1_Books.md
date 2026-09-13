@@ -4,7 +4,7 @@ created:
 aliases:
   - "Book: {{title}}"
 tags:
-  - BookType
+  - Book
 ---
 
 # 📔 Book -> 
