@@ -7,26 +7,59 @@ tags:
 # ADR-001: [Decision Title]
 
 ## Status
-[Proposed | Accepted | Deprecated | Superseded]
 
+[Proposed | Accepted | Deprecated | Superseded]
 ## Context
-What problem are we solving? What are the constraints?
+
+What problem are we solving?
+What constraints exist?
+
+## Decision Drivers
+
+What factors matter for this decision?
+
+- Cost
+- Reliability
+- Security
+- Performance
+- Complexity
+- Maintainability
+- ...
 
 ## Decision
-What did we choose? (Be specific)
+
+What did we choose?
+
+**Chosen option:** [Option]
+
+**Why:** [Short explanation of why this option was selected]
 
 ## Alternatives Considered
-1. Option A - Brief description
-2. Option B - Brief description  
-3. Option C - Brief description
+
+1. **Option A** — Brief description
+2. **Option B** — Brief description
+3. **Option C** — Brief description
 
 ## Consequences
-- Positive: What gets better?
-- Negative: What trade-offs did we accept?
-- Neutral: What changes but isn't better/worse?
 
-## Review Date
-[When to revisit this decision]
+### Positive
+- ...
+
+### Negative
+- ...
+
+### Neutral
+- ...
+
+## Review / Expiry
+
+When or under what conditions should this decision be revisited?
 
 ## Decision Makers
-[Who agreed to this]
+
+Who made/agreed to this decision?
+
+## Related Decisions
+
+- ADR-xxx
+- ADR-xxx
