@@ -1,7 +1,7 @@
 ---
 created: ["{{date}} {{time}}"]
 tags:
-- Personal/
+- MySelf/Personal/
 ---
 
 

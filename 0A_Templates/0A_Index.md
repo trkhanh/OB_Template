@@ -10,7 +10,7 @@ tags:
 ## 1️⃣ - Logs
 - [[0A_1_1_DailyLog]]
     - Log of every day activity
-- [[0A_1_2_WeeklyReview]]
+- [[0A_1_2_Quicklog {{date}}{{time}}]]
     - Review of how the weak went
 - [[0A_1_3_MonthlyLog]]
     - Review of how the month went

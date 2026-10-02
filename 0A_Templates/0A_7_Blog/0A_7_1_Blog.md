@@ -1,8 +1,10 @@
 ---
-created: ["{{date}} {{time}}"]
-aliases: ["Blog Post Code"]
+created:
+  - "{{date}} {{time}}"
+aliases:
+  - Blog Post Code
 tags:
-- Blog/
+  - Blog
 ---
 
 # ❓ Information
